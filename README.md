@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realmaro
+- 👋 Hi, I’m Omar Gad
 - 👀 I’m interested in software engineering "AI". 
 - 🌱 I’m currently learning cs50, dart and flutter.
 - 💞️ I’m looking for collaboration.

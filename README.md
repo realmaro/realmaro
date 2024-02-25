@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Gad
 - 👀 I’m interested in software engineering "AI". 
-- 🌱 I’m currently learning cs50, dart and flutter.
+- 🌱 I’m currently learning cs50, python.
 - 💞️ I’m looking for collaboration.
 - 📫 to reach me, try text me.
 <!---
